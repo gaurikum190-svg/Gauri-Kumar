@@ -1,0 +1,6 @@
+{
+  "name": "VitalTrack",
+  "description": "A comprehensive, responsive health and wellness tracker featuring profile setup, BMI/BMR/TDEE calculations, weight tracking with trends, daily check-ins, inner/outer health insights, and custom-tailored improvement plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
